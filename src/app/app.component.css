@@ -1,0 +1,19 @@
+.example-container {
+  width: 400px;
+  height: 200px;
+  margin: 10px;
+  border: 1px solid #555;
+}
+
+mat-sidenav-container{
+  height: 100%;
+}
+
+mat-sizenav, mat-sidenav-content {
+  padding: 16px;
+}
+
+mat-sidenav {
+  background-color: lightcoral;
+  width: 200px;
+}
